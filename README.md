@@ -25,7 +25,7 @@ Como Jogar
 -----------
 ```
 1. O jogador humano deve escolher entre um até 3 jogadores virtuais.
-2.	Cada jogador recebe 7 peças
+2. Cada jogador recebe 7 peças
 3. Quem possuir a maior peca de lados iguais começa jogando. Caso nenhum dos jogadores possuir pedras com lados iguais, todos da mesa devem somar os valores dos lados de cada pedra e qual o jogador tiver o valor do somatório dos lados começa jogando esta pedra na mesa.
 4. A seqüência de jogadas acontece no sentido anti-horário do primeiro a jogar.
 5. Jogar uma pedra significa ler da mão procurando pedras com lados iguais aos do tabuleiro e jogar tais ao tabuleiro.
