@@ -1,4 +1,4 @@
-Implementação e documentação do jogo de dominó orientado a objetos em C++
+Jogo de dominó orientado a objetos em C++
 ========
 
 Visão geral do repositório:
